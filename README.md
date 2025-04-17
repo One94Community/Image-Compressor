@@ -39,6 +39,6 @@ No installation required! This is a pure client-side application. You can:
 1. **Use Online**: [Live Demo](#) (add your live URL here)
 2. **Run Locally**:
    ```bash
-   git clone https://github.com/yourusername/image-compressor.git
+   git clone https://github.com/One94community/image-compressor.git
    cd image-compressor
    # Open index.html in your browser
