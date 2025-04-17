@@ -2,7 +2,6 @@
 
 A responsive web application for compressing images (both single and bulk) with adjustable quality settings. All processing happens client-side in the browser.
 
-![App Screenshot](screenshot.png)
 
 ## Features
 
